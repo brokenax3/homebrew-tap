@@ -65,7 +65,7 @@ class RobotframeworkRobocop < Formula
     sha256 "3bb3e299831ecb1664f3d5082f6ff9f08ba82d61a745bef2227328ef3049e93a"
   end
 
-  resource "tomli_w" do
+  resource "tomli-w" do
     url "https://files.pythonhosted.org/packages/19/75/241269d1da26b624c0d5e110e8149093c759b7a286138f4efd61a60e75fe/tomli_w-1.2.0.tar.gz"
     sha256 "2dd14fac5a47c27be9cd4c976af5a12d87fb1f0b4512f81d69cce3b35ae25021"
   end
@@ -75,7 +75,7 @@ class RobotframeworkRobocop < Formula
     sha256 "833a422a7cd7e27e74fcd5d76bdf51b9264c84037daceffb04b152f1a435883a"
   end
 
-  resource "typing_extensions" do
+  resource "typing-extensions" do
     url "https://files.pythonhosted.org/packages/98/5a/da40306b885cc8c09109dc2e1abd358d5684b1425678151cdaed4731c822/typing_extensions-4.14.1.tar.gz"
     sha256 "38b39f4aeeab64884ce9f74c94263ef78f3c22467c8724005483154c26648d36"
   end
